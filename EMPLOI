@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emploi du Temps - Département Informatique</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Département Informatique</h1>
+    <h2>Filière : SMI</h2>
+    <hr>
+    <h3>Emploi du temps</h3>
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>9h00-10h30</th>
+                <th>10h35-12h05</th>
+                <th>12h15-13h45</th>
+                <th>13h50-15h20</th>
+                <th>15h30-17h00</th>
+                <th>17h05-18h35</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Lundi</strong></td>
+                <td></td>
+                <td></td>
+                <td>Programmation Web Dynamique<br>Cm - Ampli A - Prof. K. Omari</td>
+                <td>Programmation Web Dynamique<br>Td/Tp - Ampli A - Prof. K. Omari</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Mardi</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Mercredi</strong></td>
+                <td></td>
+                <td>Génie Logiciel<br>Cm-Ampli A - Prof. A.Bouain</td>
+                <td>Génie Logiciel<br>Td/Tp-Ampli A - Prof.A.Bouain</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Jeudi</strong></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Vendredi</strong></td>
+                <td></td>
+                <td></td>
+                <td>HIM<br>Cm - Ampli A - Prof. M. Benaddy</td>
+                <td>HIM<br>Td/Tp - Ampli A - Prof. M. Benaddy</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Samedi</strong></td>
+                <td>Modélisation<br>Td - Ampli A - Prof. J. Oudami</td>
+                <td>Modélisation<br>Cm Ampli A - Prof. A. El Mouatasim</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3>Les séances du vendredi</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>8h30-10h00</th>
+                <th>10h05-11h35</th>
+                <th>11h45-13h15</th>
+                <th>15h00-16h30</th>
+                <th>16h45-18h15</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
